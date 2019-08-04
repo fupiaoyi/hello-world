@@ -1,3 +1,3 @@
-# hello-world(studentinfo manage system)
+# hello-world(medicineinfo manage system)
 My first repository
 readme-edits make some change
